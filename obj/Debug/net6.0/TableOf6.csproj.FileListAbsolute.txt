@@ -1,0 +1,14 @@
+D:\Phase 4\Feb 15\TableOf6\TableOf6\bin\Debug\net6.0\TableOf6.exe
+D:\Phase 4\Feb 15\TableOf6\TableOf6\bin\Debug\net6.0\TableOf6.deps.json
+D:\Phase 4\Feb 15\TableOf6\TableOf6\bin\Debug\net6.0\TableOf6.runtimeconfig.json
+D:\Phase 4\Feb 15\TableOf6\TableOf6\bin\Debug\net6.0\TableOf6.dll
+D:\Phase 4\Feb 15\TableOf6\TableOf6\bin\Debug\net6.0\TableOf6.pdb
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.AssemblyInfoInputs.cache
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.AssemblyInfo.cs
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.csproj.CoreCompileInputs.cache
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.dll
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\refint\TableOf6.dll
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.pdb
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\TableOf6.genruntimeconfig.cache
+D:\Phase 4\Feb 15\TableOf6\TableOf6\obj\Debug\net6.0\ref\TableOf6.dll
